@@ -4,9 +4,14 @@
       <h1 class="title">
         fbc-bremen-website
       </h1>
-      <h2 class="subtitle">
-        Die Webseite des Flunkyball (Schwankball) Cups Bremen.
-      </h2>
+      <ol>
+        <li>
+          Sieger 2019: Jeff, Nils, Tim
+        </li>
+        <li>
+          Sieger 2018: Joschua, Niklas, Steven
+        </li>
+      </ol>
     </div>
   </div>
 </template>
